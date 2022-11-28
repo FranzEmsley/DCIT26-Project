@@ -98,3 +98,16 @@ input[type=image] {
     margin-inline: 10px;
 }
 
+/*Log In and Register*/
+
+.center_form {
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    position: fixed;
+}
+
+#big_button {
+    width: 100%;
+    font-size: 20px;
+}
